@@ -34,8 +34,7 @@ footer {
     font-size: 1.2rem;
     box-shadow: 0 .1rem .4rem black;
     border: 1px solid black;
-    overflow-y: auto;
-    
+    overflow-y: auto;  
 }
 .bar{
     width: 60%;

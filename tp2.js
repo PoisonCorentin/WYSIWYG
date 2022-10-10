@@ -77,6 +77,7 @@ function italic(){
     editText1.value = "";
     editText2.innerText = ""; 
     bluebar.style.width = "0";
+    anime.setAttribute("class", "loader ");
     console.log(editText1);
  };
 /*------------------- Animation souris ----------------------*/
